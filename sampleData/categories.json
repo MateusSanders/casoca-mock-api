@@ -1,0 +1,992 @@
+[
+{
+  "id": "01",
+  "name": "Produtos",
+  "seName": "produtos",
+  "childCategories": [
+    {
+      "id": "01-01",
+      "name": "Móveis",
+      "seName": "moveis",
+      "imgUrl": "/moveis.webp",
+      "preloadImgUrl": "moveis-preload.webp",
+      "childCategories": [
+        {
+          "id": "01-01-01",
+          "name": "Sofás e poltronas",
+          "seName": "sofas-e-poltronas",
+          "childCategories": [
+            {
+              "id": "01-01-01-01",
+              "name": "Sofás",
+              "seName": "sofas"
+            },
+            {
+              "id": "01-01-01-02",
+              "name": "Poltronas",
+              "seName": "poltronas"
+            },
+            {
+              "id": "01-01-01-03",
+              "name": "Espreguiçadeiras",
+              "seName": "espreguicadeiras"
+            },
+            {
+              "id": "01-01-01-04",
+              "name": "Sofá-cama",
+              "seName": "sofa-cama"
+            },
+            {
+              "id": "01-01-01-05",
+              "name": "Sofás pequenos",
+              "seName": "sofas-pequenos"
+            },
+            {
+              "id": "01-01-01-06",
+              "name": "Poufs",
+              "seName": "poufs"
+            },
+            {
+              "id": "01-01-01-07",
+              "name": "Apoiador de pé",
+              "seName": "apoiador-de-pe"
+            }
+          ]
+        },
+        {
+          "id": "01-01-02",
+          "name": "Mesas e cadeiras",
+          "seName": "mesas-e-cadeiras",
+          "childCategories": [
+            {
+              "id": "01-01-02-01",
+              "name": "Cadeiras",
+              "seName": "cadeiras"
+            },
+            {
+              "id": "01-01-02-02",
+              "name": "Bancos",
+              "seName": "bancos"
+            },
+            {
+              "id": "01-01-02-03",
+              "name": "Bancos estofados",
+              "seName": "bancos-estofados"
+            },
+            {
+              "id": "01-01-02-04",
+              "name": "Mesas",
+              "seName": "mesas"
+            },
+            {
+              "id": "01-01-02-05",
+              "name": "Messas de café",
+              "seName": "mesas-de-cafe"
+            },
+            {
+              "id": "01-01-02-06",
+              "name": "Mesas de jogos",
+              "seName": "mesas-de-jogos"
+            },
+            {
+              "id": "01-01-02-07",
+              "name": "Mesas de escritório",
+              "seName": "mesas-de-escritorio"
+            }
+          ]
+        },
+        {
+          "id": "01-01-03",
+          "name": "Unidades de armazenamento",
+          "seName": "unidades-de-armazenamento",
+          "childCategories": [
+            {
+              "id": "01-01-03-01",
+              "name": "Estantes",
+              "seName": "estantes"
+            },
+            {
+              "id": "01-01-03-02",
+              "name": "Prateleiras",
+              "seName": "prateleiras"
+            },
+            {
+              "id": "01-01-03-03",
+              "name": "Guarda-louças",
+              "seName": "guarda-loucas"
+            },
+            {
+              "id": "01-01-03-04",
+              "name": "Prateleiras de televisão",
+              "seName": "prateleiras-de-televisao"
+            },
+            {
+              "id": "01-01-03-05",
+              "name": "Guarda-roupas",
+              "seName": "guarda-roupas"
+            },
+            {
+              "id": "01-01-03-06",
+              "name": "Prateleiras de bar",
+              "seName": "prateleiras-de-bar"
+            },
+            {
+              "id": "01-01-03-7",
+              "name": "Prateleiras para computador",
+              "seName": "prateleiras-para-computador"
+            }
+          ]
+        },
+        {
+          "id": "01-01-04",
+          "name": "Dormitório e quarto infantil",
+          "seName": "dormitorio-e-quarto-infantil",
+          "childCategories": [
+            {
+              "id": "01-01-04-0",
+              "name": "Camas",
+              "seName": "camas"
+            },
+            {
+              "id": "01-01-04-01",
+              "name": "Mesa de cabeceira",
+              "seName": "mesa-de-cabeceira"
+            },
+            {
+              "id": "01-01-04-02",
+              "name": "Cabeceiras",
+              "seName": "cabeceiras"
+            },
+            {
+              "id": "01-01-04-03",
+              "name": "Penteadeiras",
+              "seName": "penteadeiras"
+            },
+            {
+              "id": "01-01-04-04",
+              "name": "Conjuntos para quarto infantil",
+              "seName": "conjuntos-para-quarto-infantil"
+            },
+            {
+              "id": "01-01-04-05",
+              "name": "Colchoẽs",
+              "seName": "colchoes"
+            },
+            {
+              "id": "01-01-04-06",
+              "name": "Travesseiros",
+              "seName": "travesseiros"
+            },
+            {
+              "id": "01-01-04-07",
+              "name": "Conjuntos para cama",
+              "seName": "conjuntos-para-cama"
+            },
+            {
+              "id": "01-01-04-08",
+              "name": "Cobertores",
+              "seName": "cobertores"
+            }
+          ]
+        },
+        {
+          "id": "01-01-05",
+          "name": "Móveis infantis",
+          "seName": "moveis-infantis",
+          "childCategories": [
+            {
+              "id": "01-01-05-01",
+              "name": "Camas infantis",
+              "seName": "camas-infantis"
+            },
+            {
+              "id": "01-01-05-02",
+              "name": "Acessorios para camas infantis",
+              "seName": "acessorios-para-camas-infantis"
+            },
+            {
+              "id": "01-01-05-03",
+              "name": "Mesas infantis",
+              "seName": "mesas-e-infantis"
+            },
+            {
+              "id": "01-01-05-04",
+              "name": "Sofas e cadeiras infantis",
+              "seName": "sofas-e-cadeiras-infantis"
+            },
+            {
+              "id": "01-01-05-05",
+              "name": "Banheiro infantil",
+              "seName": "banheiro-infantil"
+            },
+            {
+              "id": "01-01-05-06",
+              "name": "Iluminação infantil",
+              "seName": "iluminacao-infantil"
+            },
+            {
+              "id": "01-01-05-07",
+              "name": "Tecidos infantis",
+              "seName": "tecidos-infantis"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "01-02",
+      "name": "Banheiro",
+      "seName": "banheiro",
+      "imgUrl": "/banheiro.webp",
+      "preloadImgUrl": "/banheiro-preload.webp",
+      "childCategories": [
+        {
+          "id": "01-02-01",
+          "name": "Vasos sanitários e pias",
+          "seName": "vasos-sanitarios-e-pias",
+          "childCategories": [
+            {
+              "id": "01-02-01-01",
+              "name": "Lavatórios",
+              "seName": "lavatorios"
+            },
+            {
+              "id": "01-02-01-02",
+              "name": "Bidês",
+              "seName": "bides"
+            },
+            {
+              "id": "01-02-01-03",
+              "name": "Pias",
+              "seName": "pias"
+            },
+            {
+              "id": "01-02-01-04",
+              "name": "Mictórios",
+              "seName": "mictorios"
+            },
+            {
+              "id": "01-02-01-05",
+              "name": "Vasos sanitários",
+              "seName": "vasos-sanitarios"
+            }
+          ]
+        },
+        {
+          "id": "01-02-02",
+          "name": "Chuveiros e banheiras",
+          "seName": "chuveiros-e-banheiras",
+          "childCategories": []
+        },
+        {
+          "id": "01-02-03",
+          "name": "Torneiras de banheiro",
+          "seName": "torneiras-de-banheiro",
+          "childCategories": []
+        },
+        {
+          "id": "01-02-04",
+          "name": "Mobília de banheiro",
+          "seName": "mobilia-de-banheiro",
+          "childCategories": []
+        },
+        {
+          "id": "01-02-05",
+          "name": "Iluminação de banheiro",
+          "seName": "iluminaca-de-banheiro",
+          "childCategories": []
+        },
+        {
+          "id": "01-02-06",
+          "name": "Acessórios de banheiro",
+          "seName": "acessorios-de-banheiro",
+          "childCategories": []
+        },
+        {
+          "id": "01-02-07",
+          "name": "Lavanderia",
+          "seName": "lavanderia",
+          "childCategories": []
+        },
+        {
+          "id": "01-02-08",
+          "name": "Banheiro para deficientes físicos",
+          "seName": "banheiro-para-deficientes-fisicos",
+          "childCategories": []
+        },
+        {
+          "id": "01-02-09",
+          "name": "Penduradores de banheiro",
+          "seName": "penduradores-de-banheiro",
+          "childCategories": []
+        }
+      ]
+    },
+    {
+      "id": "01-03",
+      "name": "Cozinha",
+      "seName": "cozinha",
+      "imgUrl": "/cozinha.webp",
+      "preloadImgUrl": "/cozinha-preload.webp",
+      "childCategories": [
+        {
+          "id": "01-03-01",
+          "name": "Mobília de cozinha",
+          "seName": "mobilia-de-cozinha",
+          "childCategories": [
+            {
+              "id": "01-03-01-01",
+              "name": "Cozinhas",
+              "seName": "cozinhas"
+            },
+            {
+              "id": "01-03-01-02",
+              "name": "Mini cozinhas",
+              "seName": "mini-cozinhas"
+            },
+            {
+              "id": "01-03-01-03",
+              "name": "Unidades independentes para cozinha",
+              "seName": "unidades-independentes-para-cozinha"
+            },
+            {
+              "id": "01-03-01-04",
+              "name": "Bancadas para cozinha",
+              "seName": "bancadas-para-cozinha"
+            },
+            {
+              "id": "01-03-01-05",
+              "name": "Acessorios para cozinha",
+              "seName": "acessorios-para-cozinha"
+            }
+          ]
+        },
+        {
+          "id": "01-03-02",
+          "name": "Pias e torneiras de cozinha",
+          "seName": "pias-e-torneiras-de-cozinha",
+          "childCategories": []
+        },
+        {
+          "id": "01-03-03",
+          "name": "Eletrodomésticos de cozinha",
+          "seName": "eletrodomesticos-de-cozinha",
+          "childCategories": []
+        },
+        {
+          "id": "01-03-04",
+          "name": "Acessórios para cozinhar",
+          "seName": "acessorios-para-cozinhar",
+          "childCategories": []
+        },
+        {
+          "id": "01-03-05",
+          "name": "Acessórios para mesa",
+          "seName": "accessorios-para-mesa",
+          "childCategories": []
+        },
+        {
+          "id": "01-03-06",
+          "name": "Tecidos de cozinha",
+          "seName": "tecidos-de-cozinha",
+          "childCategories": []
+        },
+        {
+          "id": "01-03-07",
+          "name": "Panelas e assadeiras",
+          "seName": "panelas-e-assadeiras",
+          "childCategories": []
+        }
+      ]
+    },
+    {
+      "id": "01-04",
+      "name": "Iluminação",
+      "seName": "iluminacao",
+      "imgUrl": "/iluminacao.webp",
+      "preloadImgUrl": "/iluminacao-preload.webp",
+      "childCategories": [
+        {
+          "id": "01-04-01",
+          "name": "Iluminação de interior",
+          "seName": "iluminacao-de-iinterior",
+          "childCategories": [
+            {
+              "id": "01-04-01-01",
+              "name": "Lâmpadas suspensas",
+              "seName": "lampadas-suspensas"
+            },
+            {
+              "id": "01-04-01-02",
+              "name": "Lâmpadas de teto",
+              "seName": "lampadas-de-teto"
+            },
+            {
+              "id": "01-04-01-03",
+              "name": "Lâmpadas de parede",
+              "seName": "lampadas-de-parede"
+            },
+            {
+              "id": "01-04-01-04",
+              "name": "Lâmpadas de piso",
+              "seName": "lampadas-de-piso"
+            },
+            {
+              "id": "01-04-01-05",
+              "name": "Lâmpadas de mesa",
+              "seName": "lampadas-de-mesa"
+            },
+            {
+              "id": "01-04-01-06",
+              "name": "Luzes-guia",
+              "seName": "luzes-guia"
+            },
+            {
+              "id": "01-04-01-07",
+              "name": "Lâmpadas lineares",
+              "seName": "lampadas-lineares"
+            },
+            {
+              "id": "01-04-01-08",
+              "name": "Luzes de mobilia",
+              "seName": "luzes-de-mobilia"
+            },
+            {
+              "id": "01-04-01-09",
+              "name": "Luzes de fibra optica",
+              "seName": "luzes-de-fibra-optica"
+            },
+            {
+              "id": "01-04-01-10",
+              "name": "Lâmpadas em formato de letra",
+              "seName": "lampadas-em-formato-de-letra"
+            },
+            {
+              "id": "01-04-01-11",
+              "name": "Abajures",
+              "seName": "abajures"
+            },
+            {
+              "id": "01-04-01-12",
+              "name": "Luzes de emergências",
+              "seName": "luzes-de-emergencia"
+            }
+          ]
+        },
+        {
+          "id": "01-04-02",
+          "name": "Iluminação de exterior",
+          "seName": "iluminacao-de-exterior",
+          "childCategories": []
+        }
+      ]
+    },
+    {
+      "id": "01-05",
+      "name": "Área externa",
+      "seName": "area-externa",
+      "imgUrl": "/area-externa.webp",
+      "preloadImgUrl": "/area-externa-preload.webp",
+      "childCategories": [
+        {
+          "id": "01-05-01",
+          "name": "Mobília de exterior",
+          "seName": "mobilia-de-exterior",
+          "childCategories": [
+            {
+              "id": "01-05-01-01",
+              "name": "Sofás de exterior",
+              "seName": "sofas-de-exterior"
+            },
+            {
+              "id": "01-05-01-02",
+              "name": "Poltronas de exterior",
+              "seName": "poltronas-de-exterior"
+            },
+            {
+              "id": "01-05-01-03",
+              "name": "Mesas de exterior",
+              "seName": "mesas-de-exterior"
+            },
+            {
+              "id": "01-05-01-04",
+              "name": "Cadeiras de exterior",
+              "seName": "cadeiras-de-exterior"
+            },
+            {
+              "id": "01-05-01-05",
+              "name": "Bancos de exterior",
+              "seName": "bancos-de-exterior"
+            },
+            {
+              "id": "01-05-01-06",
+              "name": "Espreguiçadeiras de exterior",
+              "seName": "espreguicadeiras-de-exterior"
+            },
+            {
+              "id": "01-05-01-07",
+              "name": "Camas de pátio",
+              "seName": "camas-de-patio"
+            },
+            {
+              "id": "01-05-01-08",
+              "name": "Guarda-sois",
+              "seName": "guarda-sois"
+            },
+            {
+              "id": "01-05-01-09",
+              "name": "Poufs de exterior",
+              "seName": "poufs-de-exterior"
+            },
+            {
+              "id": "01-05-01-10",
+              "name": "Balanços de exterior",
+              "seName": "balancos-de-exterior"
+            }
+          ]
+        },
+        {
+          "id": "01-05-02",
+          "name": "Churrasqueiras e cozinha de exterior",
+          "seName": "churrasqueira-e-cozinha-de-exterior",
+          "childCategories": []
+        },
+        {
+          "id": "01-05-03",
+          "name": "Lareiras de exterior",
+          "seName": "lareiras-de-exterior",
+          "childCategories": []
+        },
+        {
+          "id": "01-05-04",
+          "name": "Coberturas",
+          "seName": "coberturas",
+          "childCategories": []
+        },
+        {
+          "id": "01-05-05",
+          "name": "Piscinas e chuveiros de exterior",
+          "seName": "piscinas-e-chuveiros-de-exterior",
+          "childCategories": []
+        },
+        {
+          "id": "01-05-06",
+          "name": "Pisos de exterior",
+          "seName": "pisos-de-exterior",
+          "childCategories": []
+        }
+      ]
+    },
+    {
+      "id": "01-06",
+      "name": "Escritório",
+      "seName": "escritorio",
+      "imgUrl": "/escritorio.webp",
+      "preloadImgUrl": "/escritorio-preload.webp",
+      "childCategories": [
+        {
+          "id": "01-06-01",
+          "name": "Mobília de escritório",
+          "seName": "mobilia-de-escritorio",
+          "childCategories": [
+            {
+              "id": "01-06-01-01",
+              "name": "Mesas de escritório",
+              "seName": "mesas-de-escritorio"
+            },
+            {
+              "id": "01-06-01-02",
+              "name": "Cadeiras de escritório",
+              "seName": "cadeiras-de-escritorio"
+            },
+            {
+              "id": "01-06-01-03",
+              "name": "Cadeiras executivas",
+              "seName": "cadeiras-executivas"
+            },
+            {
+              "id": "01-06-01-04",
+              "name": "Bancos de escritório",
+              "seName": "bancos-de-escritorio"
+            },
+            {
+              "id": "01-06-01-05",
+              "name": "Baús de escritório",
+              "seName": "baus-de-escritorio"
+            },
+            {
+              "id": "01-06-01-06",
+              "name": "Estantes de escritório",
+              "seName": "estantes-de-escritorio"
+            }
+          ]
+        },
+        {
+          "id": "01-06-02",
+          "name": "Salas de reunião e espera",
+          "seName": "salas-de-reuniao-e-espera",
+          "childCategories": []
+        },
+        {
+          "id": "01-06-03",
+          "name": "Divisões de escritório",
+          "seName": "divisoes-de-escritorio",
+          "childCategories": []
+        },
+        {
+          "id": "01-06-04",
+          "name": "Acessórios de escritório",
+          "seName": "acessorios-de-escritorio",
+          "childCategories": []
+        },
+        {
+          "id": "01-06-05",
+          "name": "Iluminação de escritório",
+          "seName": "iluminacao-de-escritorio",
+          "childCategories": []
+        }
+      ]
+    },
+    {
+      "id": "01-07",
+      "name": "Bem-estar",
+      "seName": "bem-estar",
+      "imgUrl": "/bem-estar.webp",
+      "preloadImgUrl": "/bem-estar-preload.webp",
+      "childCategories": [
+        {
+          "id": "01-07-01",
+          "name": "Spas e bem-estar",
+          "seName": "spas-e-bem-estar",
+          "childCategories": [
+            {
+              "id": "01-07-01-01",
+              "name": "Jacuzzis",
+              "seName": "jacuzzis"
+            },
+            {
+              "id": "01-07-01-02",
+              "name": "Banheiras de hidromassagem",
+              "seName": "baneiras-de-hidromassagem"
+            },
+            {
+              "id": "01-07-01-03",
+              "name": "Saunas",
+              "seName": "saunas"
+            },
+            {
+              "id": "01-07-01-04",
+              "name": "Banheiro turco",
+              "seName": "banheiro-turco"
+            },
+            {
+              "id": "01-07-01-05",
+              "name": "Chuveiros de spa",
+              "seName": "chuveiros-de-spa"
+            },
+            {
+              "id": "01-07-01-06",
+              "name": "Equipamentos de spa",
+              "seName": "equipamentos-de-spa"
+            },
+            {
+              "id": "01-07-01-07",
+              "name": "Salas de sal",
+              "seName": "salas-de-sal"
+            },
+            {
+              "id": "01-07-01-08",
+              "name": "Salas de gelo",
+              "seName": "salas-de-gelo"
+            }
+          ]
+        },
+        {
+          "id": "01-07-02",
+          "name": "Piscinas e equipamentos",
+          "seName": "piscinas-e-equipamentos",
+          "childCategories": []
+        },
+        {
+          "id": "01-07-03",
+          "name": "Academia",
+          "seName": "academia",
+          "childCategories": []
+        }
+      ]
+    },
+    {
+      "id": "01-08",
+      "name": "Decoração",
+      "seName": "decoracao",
+      "imgUrl": "/decoracao.webp",
+      "preloadImgUrl": "/decoracao-preload.webp",
+      "childCategories": [
+        {
+          "id": "01-08-01",
+          "name": "decoração para casa",
+          "seName": "decoracao-para-casa",
+          "childCategories": [
+            {
+              "id": "01-08-01-01",
+              "name": "relógios",
+              "seName": "relogios"
+            },
+            {
+              "id": "01-08-01-02",
+              "name": "espelhos",
+              "seName": "espelhos"
+            },
+            {
+              "id": "01-08-01-03",
+              "name": "vasos",
+              "seName": "vasos"
+            },
+            {
+              "id": "01-08-01-04",
+              "name": "objetos de decoração",
+              "seName": "objetos-de-decoracao"
+            },
+            {
+              "id": "01-08-01-05",
+              "name": "velas",
+              "seName": "velas"
+            },
+            {
+              "id": "01-08-01-06",
+              "name": "porta-velas",
+              "seName": "porta-velas"
+            },
+            {
+              "id": "01-08-01-07",
+              "name": "decoração de parede",
+              "seName": "decoracao-de-parede"
+            }
+          ]
+        },
+        {
+          "id": "01-08-02",
+          "name": "tecidos e tapetes",
+          "seName": "tecidos-e-tapetes",
+          "childCategories": []
+        },
+        {
+          "id": "01-08-03",
+          "name": "arte e pinturas",
+          "seName": "arte-e-pinturas",
+          "childCategories": []
+        },
+        {
+          "id": "01-08-04",
+          "name": "armazenamento e organização do espaço",
+          "seName": "armazenamento-e-organizacao-do-espaco",
+          "childCategories": []
+        },
+        {
+          "id": "01-08-05",
+          "name": "cortinas",
+          "seName": "cortinas",
+          "childCategories": []
+        },
+        {
+          "id": "01-08-06",
+          "name": "decoração com plantas",
+          "seName": "decoracao-com-plantas",
+          "childCategories": []
+        },
+        {
+          "id": "01-08-07",
+          "name": "mobília para pets",
+          "seName": "mobilia-para-pets",
+          "childCategories": []
+        }
+      ]
+    },
+    {
+      "id": "01-09",
+      "name": "acabamentos",
+      "seName": "acabamentos",
+      "imgUrl": "/acabamentos.webp",
+      "preloadImgUrl": "/acabamentos-preload.webp",
+      "childCategories": [
+        {
+          "id": "01-09-01",
+          "name": "cobertura de piso",
+          "seName": "cobertura-de-piso",
+          "childCategories": [
+            {
+              "id": "01-09-01-01",
+              "name": "pisos internos",
+              "seName": "pisos-internos"
+            },
+            {
+              "id": "01-09-01-02",
+              "name": "tapeçaria",
+              "seName": "tapecaria"
+            },
+            {
+              "id": "01-09-01-03",
+              "name": "pisos continuos",
+              "seName": "pisos-continuos"
+            },
+            {
+              "id": "01-09-01-04",
+              "name": "coberturas de piso",
+              "seName": "coberturas-de-piso"
+            },
+            {
+              "id": "01-09-01-05",
+              "name": "mosaicos",
+              "seName": "mosaicos"
+            },
+            {
+              "id": "01-09-01-06",
+              "name": "pisos elevados",
+              "seName": "pisos-elevados"
+            },
+            {
+              "id": "01-09-01-07",
+              "name": "juntas de piso",
+              "seName": "justas-de-piso"
+            }
+          ]
+        },
+        {
+          "id": "01-09-02",
+          "name": "cobertura de parede",
+          "seName": "cobertura-de-parede",
+          "childCategories": []
+        },
+        {
+          "id": "01-09-03",
+          "name": "divisórias",
+          "seName": "divisorias",
+          "childCategories": []
+        },
+        {
+          "id": "01-09-04",
+          "name": "portas e janelas",
+          "seName": "portas-e-janelas",
+          "childCategories": []
+        },
+        {
+          "id": "01-09-05",
+          "name": "escadas",
+          "seName": "escadas",
+          "childCategories": []
+        },
+        {
+          "id": "01-09-06",
+          "name": "lareiras e aquecedores",
+          "seName": "lareiras-e-aquecedores",
+          "childCategories": []
+        },
+        {
+          "id": "01-09-07",
+          "name": "penduradores e penduradores decorativos",
+          "seName": "penduradores-e-penduradores-decorativos",
+          "childCategories": []
+        }
+      ]
+    },
+    {
+      "id": "01-10",
+      "name": "estilo de vida",
+      "seName": "estilo-de-vida",
+      "imgUrl": "/estilo-de-vida.webp",
+      "preloadImgUrl": "/estilo-de-vida-preload.webp",
+      "childCategories": [
+        {
+          "id": "01-10-01",
+          "name": "tecnologia e audio-visual",
+          "seName": "tecnologia-e-audio-visual",
+          "childCategories": [
+            {
+              "id": "01-10-01-01",
+              "name": "televisões",
+              "seName": "televisoes"
+            },
+            {
+              "id": "01-10-01-02",
+              "name": "autofalantes",
+              "seName": "autofalantes"
+            },
+            {
+              "id": "01-10-01-03",
+              "name": "projetores",
+              "seName": "projetores"
+            },
+            {
+              "id": "01-10-01-04",
+              "name": "relógios com alarme",
+              "seName": "relogios"
+            },
+            {
+              "id": "01-10-01-05",
+              "name": "fones de ouvido",
+              "seName": "fones-de-ouvido"
+            },
+            {
+              "id": "01-10-01-06",
+              "name": "Audio profissional",
+              "seName": "audio-profissional"
+            },
+            {
+              "id": "01-10-01-07",
+              "name": "Computadores e monitores",
+              "seName": "computadores-e-monitores"
+            },
+            {
+              "id": "01-10-01-08",
+              "name": "Microfones",
+              "seName": "microfones"
+            }
+          ]
+        },
+        {
+          "id": "01-10-02",
+          "name": "Smartphones e tablets",
+          "seName": "smartphones-e-tablets",
+          "childCategories": []
+        },
+        {
+          "id": "01-10-03",
+          "name": "Hobbies e jogos",
+          "seName": "hobbies-e-jogos",
+          "childCategories": []
+        },
+        {
+          "id": "01-10-04",
+          "name": "Saúde e esportes",
+          "seName": "saude-e-esportes",
+          "childCategories": []
+        },
+        {
+          "id": "01-10-05",
+          "name": "Moda",
+          "seName": "moda",
+          "childCategories": []
+        }
+      ]
+    }
+  ]
+},
+
+{
+"id": "02",
+"name": "Profissionais",
+"seName": "profissionais"
+},
+
+{
+"id": "03",
+"name": "Mostras e Concursos",
+"seName": "mostras-e-concursos"
+},
+
+{
+"id": "04",
+"name": "Inspirações",
+"seName": "inspiracoes"
+}
+]

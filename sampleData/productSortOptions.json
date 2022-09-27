@@ -1,0 +1,22 @@
+[
+  {
+    "id": "s-01",
+    "name": "Mais recente",
+    "seName": "mais-recente"
+  },
+  {
+    "id": "s-02",
+    "name": "Mais relevante",
+    "seName": "mais-relevante"
+  },
+  {
+    "id": "s-04",
+    "name": "Maior preço",
+    "seName": "maior-preco"
+  },
+  {
+    "id": "s-05",
+    "name": "Menor preço",
+    "seName": "menor-preço"
+  }
+]
