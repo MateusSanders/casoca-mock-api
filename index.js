@@ -1,7 +1,7 @@
 const { ApolloServer, gql } = require('apollo-server');
 const products = require('./sampleData/products.json');
 const categories = require('./sampleData/categories.json');
-const brands = require('./sampleData/brands.json');
+const manufacturers = require('./sampleData/manufacturers.json');
 const formats = require('./sampleData/formats.json');
 const productSortOptions = require('./sampleData/productSortOptions.json');
 
@@ -20,7 +20,7 @@ const typeDefs = gql`
         hasMoreSizes: Boolean!
         formats: [String]
         isNew: Boolean!
-        brand: Brand!
+        manufacturer: Manufacturer!
         cardImage: Image!
         smallImages: [Image]!
         bigImages: [Image]!
@@ -37,7 +37,7 @@ const typeDefs = gql`
         seName: String!
         image: Image!
     }
-    type Brand {
+    type Manufacturer {
         id: ID!
         logo: Image!
         name: String!
@@ -74,12 +74,12 @@ const typeDefs = gql`
     }
 
     type Query {
-        products(currentPage: Int!, itemsPerPage: Int!, sortBy: String, category: String, formats: [String], brands: [String]): [Product]
-        totalProducts(category: String, formats: [String], brands: [String]): Int
+        products(currentPage: Int!, itemsPerPage: Int!, sortBy: String, category: String, formats: [String], manufacturers: [String]): [Product]
+        totalProducts(category: String, formats: [String], manufacturers: [String]): Int
         product(seName: String!): Product
         
-        brands: [Brand]
-        brand(id: ID!): Brand
+        manufacturers: [Manufacturer]
+        manufacturer(id: ID!): Manufacturer
         
         categories: [Category]
         category(seName: String): Category
@@ -118,8 +118,8 @@ const resolvers = {
             })
 
             result = result.filter(p => {
-                if (args.brands) {
-                    return args.brands.includes(p.brand.seName)
+                if (args.manufacturers) {
+                    return args.manufacturers.includes(p.manufacturer.seName)
                 } else {
                     return true
                 }
@@ -159,8 +159,8 @@ const resolvers = {
             })
 
             result = result.filter(p => {
-                if (args.brands) {
-                    return args.brands.includes(p.brand.seName)
+                if (args.manufacturers) {
+                    return args.manufacturers.includes(p.manufacturer.seName)
                 } else {
                     return true
                 }
@@ -171,7 +171,7 @@ const resolvers = {
 
         product: (parent, args, context, info) => products.find(p => p.seName === args.seName),
 
-        brands: () => brands,
+        manufacturers: () => manufacturers,
 
         categories: () => categories,
         category: (parent, args, context, info) => categories.find(c => c.seName === args.seName),

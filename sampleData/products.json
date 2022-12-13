@@ -91,8 +91,8 @@
     "hasMoreMaterials": true,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-01",
+    "manufacturer": {
+      "id": "manufacturer-01",
       "logo": {
         "url": "/mock-maddo.png",
         "alt": "Maddo Logo",
@@ -234,8 +234,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-02",
+    "manufacturer": {
+      "id": "manufacturer-02",
       "logo": {
         "url": "/mock-aristeu-pires.png",
         "alt": "Aristeu Pires Logo",
@@ -492,8 +492,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": false,
-    "brand": {
-      "id": "brand-03",
+    "manufacturer": {
+      "id": "manufacturer-03",
       "logo": {
         "url": "/mock-made.svg",
         "alt": "Made Logo",
@@ -661,8 +661,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-04",
+    "manufacturer": {
+      "id": "manufacturer-04",
       "logo": {
         "url": "/mock-lider.png",
         "alt": "Lider Logo",
@@ -739,8 +739,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-04",
+    "manufacturer": {
+      "id": "manufacturer-04",
       "logo": {
         "url": "/mock-lider.png",
         "alt": "Lider Logo",
@@ -875,8 +875,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": true,
     "isNew": false,
-    "brand": {
-      "id": "brand-03",
+    "manufacturer": {
+      "id": "manufacturer-03",
       "logo": {
         "url": "/mock-made.svg",
         "alt": "Made Logo",
@@ -1122,8 +1122,8 @@
     "hasMoreMaterials": true,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-01",
+    "manufacturer": {
+      "id": "manufacturer-01",
       "logo": {
         "url": "/mock-maddo.png",
         "alt": "Maddo Logo",
@@ -1265,8 +1265,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-02",
+    "manufacturer": {
+      "id": "manufacturer-02",
       "logo": {
         "url": "/mock-aristeu-pires.png",
         "alt": "Aristeu Pires Logo",
@@ -1523,8 +1523,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": false,
-    "brand": {
-      "id": "brand-03",
+    "manufacturer": {
+      "id": "manufacturer-03",
       "logo": {
         "url": "/mock-made.svg",
         "alt": "Made Logo",
@@ -1692,8 +1692,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-04",
+    "manufacturer": {
+      "id": "manufacturer-04",
       "logo": {
         "url": "/mock-lider.png",
         "alt": "Lider Logo",
@@ -1770,8 +1770,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-04",
+    "manufacturer": {
+      "id": "manufacturer-04",
       "logo": {
         "url": "/mock-lider.png",
         "alt": "Lider Logo",
@@ -1906,8 +1906,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": true,
     "isNew": false,
-    "brand": {
-      "id": "brand-03",
+    "manufacturer": {
+      "id": "manufacturer-03",
       "logo": {
         "url": "/mock-made.svg",
         "alt": "Made Logo",
@@ -2153,8 +2153,8 @@
     "hasMoreMaterials": true,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-01",
+    "manufacturer": {
+      "id": "manufacturer-01",
       "logo": {
         "url": "/mock-maddo.png",
         "alt": "Maddo Logo",
@@ -2296,8 +2296,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-02",
+    "manufacturer": {
+      "id": "manufacturer-02",
       "logo": {
         "url": "/mock-aristeu-pires.png",
         "alt": "Aristeu Pires Logo",
@@ -2554,8 +2554,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": false,
-    "brand": {
-      "id": "brand-03",
+    "manufacturer": {
+      "id": "manufacturer-03",
       "logo": {
         "url": "/mock-made.svg",
         "alt": "Made Logo",
@@ -2723,8 +2723,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-04",
+    "manufacturer": {
+      "id": "manufacturer-04",
       "logo": {
         "url": "/mock-lider.png",
         "alt": "Lider Logo",
@@ -2801,8 +2801,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-04",
+    "manufacturer": {
+      "id": "manufacturer-04",
       "logo": {
         "url": "/mock-lider.png",
         "alt": "Lider Logo",
@@ -2937,8 +2937,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": true,
     "isNew": false,
-    "brand": {
-      "id": "brand-03",
+    "manufacturer": {
+      "id": "manufacturer-03",
       "logo": {
         "url": "/mock-made.svg",
         "alt": "Made Logo",
@@ -3184,8 +3184,8 @@
     "hasMoreMaterials": true,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-01",
+    "manufacturer": {
+      "id": "manufacturer-01",
       "logo": {
         "url": "/mock-maddo.png",
         "alt": "Maddo Logo",
@@ -3327,8 +3327,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-02",
+    "manufacturer": {
+      "id": "manufacturer-02",
       "logo": {
         "url": "/mock-aristeu-pires.png",
         "alt": "Aristeu Pires Logo",
@@ -3585,8 +3585,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": false,
-    "brand": {
-      "id": "brand-03",
+    "manufacturer": {
+      "id": "manufacturer-03",
       "logo": {
         "url": "/mock-made.svg",
         "alt": "Made Logo",
@@ -3754,8 +3754,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-04",
+    "manufacturer": {
+      "id": "manufacturer-04",
       "logo": {
         "url": "/mock-lider.png",
         "alt": "Lider Logo",
@@ -3832,8 +3832,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-04",
+    "manufacturer": {
+      "id": "manufacturer-04",
       "logo": {
         "url": "/mock-lider.png",
         "alt": "Lider Logo",
@@ -3968,8 +3968,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": true,
     "isNew": false,
-    "brand": {
-      "id": "brand-03",
+    "manufacturer": {
+      "id": "manufacturer-03",
       "logo": {
         "url": "/mock-made.svg",
         "alt": "Made Logo",
@@ -4215,8 +4215,8 @@
     "hasMoreMaterials": true,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-01",
+    "manufacturer": {
+      "id": "manufacturer-01",
       "logo": {
         "url": "/mock-maddo.png",
         "alt": "Maddo Logo",
@@ -4358,8 +4358,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-02",
+    "manufacturer": {
+      "id": "manufacturer-02",
       "logo": {
         "url": "/mock-aristeu-pires.png",
         "alt": "Aristeu Pires Logo",
@@ -4616,8 +4616,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": false,
-    "brand": {
-      "id": "brand-03",
+    "manufacturer": {
+      "id": "manufacturer-03",
       "logo": {
         "url": "/mock-made.svg",
         "alt": "Made Logo",
@@ -4785,8 +4785,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-04",
+    "manufacturer": {
+      "id": "manufacturer-04",
       "logo": {
         "url": "/mock-lider.png",
         "alt": "Lider Logo",
@@ -4863,8 +4863,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-04",
+    "manufacturer": {
+      "id": "manufacturer-04",
       "logo": {
         "url": "/mock-lider.png",
         "alt": "Lider Logo",
@@ -4999,8 +4999,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": true,
     "isNew": false,
-    "brand": {
-      "id": "brand-03",
+    "manufacturer": {
+      "id": "manufacturer-03",
       "logo": {
         "url": "/mock-made.svg",
         "alt": "Made Logo",
@@ -5246,8 +5246,8 @@
     "hasMoreMaterials": true,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-01",
+    "manufacturer": {
+      "id": "manufacturer-01",
       "logo": {
         "url": "/mock-maddo.png",
         "alt": "Maddo Logo",
@@ -5389,8 +5389,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-02",
+    "manufacturer": {
+      "id": "manufacturer-02",
       "logo": {
         "url": "/mock-aristeu-pires.png",
         "alt": "Aristeu Pires Logo",
@@ -5647,8 +5647,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": false,
-    "brand": {
-      "id": "brand-03",
+    "manufacturer": {
+      "id": "manufacturer-03",
       "logo": {
         "url": "/mock-made.svg",
         "alt": "Made Logo",
@@ -5816,8 +5816,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-04",
+    "manufacturer": {
+      "id": "manufacturer-04",
       "logo": {
         "url": "/mock-lider.png",
         "alt": "Lider Logo",
@@ -5894,8 +5894,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-04",
+    "manufacturer": {
+      "id": "manufacturer-04",
       "logo": {
         "url": "/mock-lider.png",
         "alt": "Lider Logo",
@@ -6030,8 +6030,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": true,
     "isNew": false,
-    "brand": {
-      "id": "brand-03",
+    "manufacturer": {
+      "id": "manufacturer-03",
       "logo": {
         "url": "/mock-made.svg",
         "alt": "Made Logo",
@@ -6277,8 +6277,8 @@
     "hasMoreMaterials": true,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-01",
+    "manufacturer": {
+      "id": "manufacturer-01",
       "logo": {
         "url": "/mock-maddo.png",
         "alt": "Maddo Logo",
@@ -6420,8 +6420,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-02",
+    "manufacturer": {
+      "id": "manufacturer-02",
       "logo": {
         "url": "/mock-aristeu-pires.png",
         "alt": "Aristeu Pires Logo",
@@ -6678,8 +6678,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": false,
-    "brand": {
-      "id": "brand-03",
+    "manufacturer": {
+      "id": "manufacturer-03",
       "logo": {
         "url": "/mock-made.svg",
         "alt": "Made Logo",
@@ -6847,8 +6847,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-04",
+    "manufacturer": {
+      "id": "manufacturer-04",
       "logo": {
         "url": "/mock-lider.png",
         "alt": "Lider Logo",
@@ -6925,8 +6925,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-04",
+    "manufacturer": {
+      "id": "manufacturer-04",
       "logo": {
         "url": "/mock-lider.png",
         "alt": "Lider Logo",
@@ -7061,8 +7061,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": true,
     "isNew": false,
-    "brand": {
-      "id": "brand-03",
+    "manufacturer": {
+      "id": "manufacturer-03",
       "logo": {
         "url": "/mock-made.svg",
         "alt": "Made Logo",
@@ -7308,8 +7308,8 @@
     "hasMoreMaterials": true,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-01",
+    "manufacturer": {
+      "id": "manufacturer-01",
       "logo": {
         "url": "/mock-maddo.png",
         "alt": "Maddo Logo",
@@ -7451,8 +7451,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-02",
+    "manufacturer": {
+      "id": "manufacturer-02",
       "logo": {
         "url": "/mock-aristeu-pires.png",
         "alt": "Aristeu Pires Logo",
@@ -7709,8 +7709,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": false,
-    "brand": {
-      "id": "brand-03",
+    "manufacturer": {
+      "id": "manufacturer-03",
       "logo": {
         "url": "/mock-made.svg",
         "alt": "Made Logo",
@@ -7878,8 +7878,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-04",
+    "manufacturer": {
+      "id": "manufacturer-04",
       "logo": {
         "url": "/mock-lider.png",
         "alt": "Lider Logo",
@@ -7956,8 +7956,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-04",
+    "manufacturer": {
+      "id": "manufacturer-04",
       "logo": {
         "url": "/mock-lider.png",
         "alt": "Lider Logo",
@@ -8092,8 +8092,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": true,
     "isNew": false,
-    "brand": {
-      "id": "brand-03",
+    "manufacturer": {
+      "id": "manufacturer-03",
       "logo": {
         "url": "/mock-made.svg",
         "alt": "Made Logo",
@@ -8339,8 +8339,8 @@
     "hasMoreMaterials": true,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-01",
+    "manufacturer": {
+      "id": "manufacturer-01",
       "logo": {
         "url": "/mock-maddo.png",
         "alt": "Maddo Logo",
@@ -8482,8 +8482,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-02",
+    "manufacturer": {
+      "id": "manufacturer-02",
       "logo": {
         "url": "/mock-aristeu-pires.png",
         "alt": "Aristeu Pires Logo",
@@ -8740,8 +8740,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": false,
-    "brand": {
-      "id": "brand-03",
+    "manufacturer": {
+      "id": "manufacturer-03",
       "logo": {
         "url": "/mock-made.svg",
         "alt": "Made Logo",
@@ -8909,8 +8909,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-04",
+    "manufacturer": {
+      "id": "manufacturer-04",
       "logo": {
         "url": "/mock-lider.png",
         "alt": "Lider Logo",
@@ -8987,8 +8987,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-04",
+    "manufacturer": {
+      "id": "manufacturer-04",
       "logo": {
         "url": "/mock-lider.png",
         "alt": "Lider Logo",
@@ -9123,8 +9123,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": true,
     "isNew": false,
-    "brand": {
-      "id": "brand-03",
+    "manufacturer": {
+      "id": "manufacturer-03",
       "logo": {
         "url": "/mock-made.svg",
         "alt": "Made Logo",
@@ -9370,8 +9370,8 @@
     "hasMoreMaterials": true,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-01",
+    "manufacturer": {
+      "id": "manufacturer-01",
       "logo": {
         "url": "/mock-maddo.png",
         "alt": "Maddo Logo",
@@ -9513,8 +9513,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-02",
+    "manufacturer": {
+      "id": "manufacturer-02",
       "logo": {
         "url": "/mock-aristeu-pires.png",
         "alt": "Aristeu Pires Logo",
@@ -9771,8 +9771,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": false,
-    "brand": {
-      "id": "brand-03",
+    "manufacturer": {
+      "id": "manufacturer-03",
       "logo": {
         "url": "/mock-made.svg",
         "alt": "Made Logo",
@@ -9940,8 +9940,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-04",
+    "manufacturer": {
+      "id": "manufacturer-04",
       "logo": {
         "url": "/mock-lider.png",
         "alt": "Lider Logo",
@@ -10018,8 +10018,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-04",
+    "manufacturer": {
+      "id": "manufacturer-04",
       "logo": {
         "url": "/mock-lider.png",
         "alt": "Lider Logo",
@@ -10154,8 +10154,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": true,
     "isNew": false,
-    "brand": {
-      "id": "brand-03",
+    "manufacturer": {
+      "id": "manufacturer-03",
       "logo": {
         "url": "/mock-made.svg",
         "alt": "Made Logo",
@@ -10401,8 +10401,8 @@
     "hasMoreMaterials": true,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-01",
+    "manufacturer": {
+      "id": "manufacturer-01",
       "logo": {
         "url": "/mock-maddo.png",
         "alt": "Maddo Logo",
@@ -10544,8 +10544,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-02",
+    "manufacturer": {
+      "id": "manufacturer-02",
       "logo": {
         "url": "/mock-aristeu-pires.png",
         "alt": "Aristeu Pires Logo",
@@ -10802,8 +10802,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": false,
-    "brand": {
-      "id": "brand-03",
+    "manufacturer": {
+      "id": "manufacturer-03",
       "logo": {
         "url": "/mock-made.svg",
         "alt": "Made Logo",
@@ -10971,8 +10971,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-04",
+    "manufacturer": {
+      "id": "manufacturer-04",
       "logo": {
         "url": "/mock-lider.png",
         "alt": "Lider Logo",
@@ -11049,8 +11049,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-04",
+    "manufacturer": {
+      "id": "manufacturer-04",
       "logo": {
         "url": "/mock-lider.png",
         "alt": "Lider Logo",
@@ -11185,8 +11185,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": true,
     "isNew": false,
-    "brand": {
-      "id": "brand-03",
+    "manufacturer": {
+      "id": "manufacturer-03",
       "logo": {
         "url": "/mock-made.svg",
         "alt": "Made Logo",
@@ -11432,8 +11432,8 @@
     "hasMoreMaterials": true,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-01",
+    "manufacturer": {
+      "id": "manufacturer-01",
       "logo": {
         "url": "/mock-maddo.png",
         "alt": "Maddo Logo",
@@ -11575,8 +11575,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-02",
+    "manufacturer": {
+      "id": "manufacturer-02",
       "logo": {
         "url": "/mock-aristeu-pires.png",
         "alt": "Aristeu Pires Logo",
@@ -11833,8 +11833,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": false,
-    "brand": {
-      "id": "brand-03",
+    "manufacturer": {
+      "id": "manufacturer-03",
       "logo": {
         "url": "/mock-made.svg",
         "alt": "Made Logo",
@@ -12002,8 +12002,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-04",
+    "manufacturer": {
+      "id": "manufacturer-04",
       "logo": {
         "url": "/mock-lider.png",
         "alt": "Lider Logo",
@@ -12080,8 +12080,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-04",
+    "manufacturer": {
+      "id": "manufacturer-04",
       "logo": {
         "url": "/mock-lider.png",
         "alt": "Lider Logo",
@@ -12216,8 +12216,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": true,
     "isNew": false,
-    "brand": {
-      "id": "brand-03",
+    "manufacturer": {
+      "id": "manufacturer-03",
       "logo": {
         "url": "/mock-made.svg",
         "alt": "Made Logo",
@@ -12463,8 +12463,8 @@
     "hasMoreMaterials": true,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-01",
+    "manufacturer": {
+      "id": "manufacturer-01",
       "logo": {
         "url": "/mock-maddo.png",
         "alt": "Maddo Logo",
@@ -12606,8 +12606,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-02",
+    "manufacturer": {
+      "id": "manufacturer-02",
       "logo": {
         "url": "/mock-aristeu-pires.png",
         "alt": "Aristeu Pires Logo",
@@ -12864,8 +12864,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": false,
-    "brand": {
-      "id": "brand-03",
+    "manufacturer": {
+      "id": "manufacturer-03",
       "logo": {
         "url": "/mock-made.svg",
         "alt": "Made Logo",
@@ -13033,8 +13033,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-04",
+    "manufacturer": {
+      "id": "manufacturer-04",
       "logo": {
         "url": "/mock-lider.png",
         "alt": "Lider Logo",
@@ -13111,8 +13111,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-04",
+    "manufacturer": {
+      "id": "manufacturer-04",
       "logo": {
         "url": "/mock-lider.png",
         "alt": "Lider Logo",
@@ -13247,8 +13247,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": true,
     "isNew": false,
-    "brand": {
-      "id": "brand-03",
+    "manufacturer": {
+      "id": "manufacturer-03",
       "logo": {
         "url": "/mock-made.svg",
         "alt": "Made Logo",
@@ -13494,8 +13494,8 @@
     "hasMoreMaterials": true,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-01",
+    "manufacturer": {
+      "id": "manufacturer-01",
       "logo": {
         "url": "/mock-maddo.png",
         "alt": "Maddo Logo",
@@ -13637,8 +13637,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-02",
+    "manufacturer": {
+      "id": "manufacturer-02",
       "logo": {
         "url": "/mock-aristeu-pires.png",
         "alt": "Aristeu Pires Logo",
@@ -13895,8 +13895,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": false,
-    "brand": {
-      "id": "brand-03",
+    "manufacturer": {
+      "id": "manufacturer-03",
       "logo": {
         "url": "/mock-made.svg",
         "alt": "Made Logo",
@@ -14064,8 +14064,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-04",
+    "manufacturer": {
+      "id": "manufacturer-04",
       "logo": {
         "url": "/mock-lider.png",
         "alt": "Lider Logo",
@@ -14142,8 +14142,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-04",
+    "manufacturer": {
+      "id": "manufacturer-04",
       "logo": {
         "url": "/mock-lider.png",
         "alt": "Lider Logo",
@@ -14278,8 +14278,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": true,
     "isNew": false,
-    "brand": {
-      "id": "brand-03",
+    "manufacturer": {
+      "id": "manufacturer-03",
       "logo": {
         "url": "/mock-made.svg",
         "alt": "Made Logo",
@@ -14525,8 +14525,8 @@
     "hasMoreMaterials": true,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-01",
+    "manufacturer": {
+      "id": "manufacturer-01",
       "logo": {
         "url": "/mock-maddo.png",
         "alt": "Maddo Logo",
@@ -14668,8 +14668,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-02",
+    "manufacturer": {
+      "id": "manufacturer-02",
       "logo": {
         "url": "/mock-aristeu-pires.png",
         "alt": "Aristeu Pires Logo",
@@ -14926,8 +14926,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": false,
-    "brand": {
-      "id": "brand-03",
+    "manufacturer": {
+      "id": "manufacturer-03",
       "logo": {
         "url": "/mock-made.svg",
         "alt": "Made Logo",
@@ -15095,8 +15095,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-04",
+    "manufacturer": {
+      "id": "manufacturer-04",
       "logo": {
         "url": "/mock-lider.png",
         "alt": "Lider Logo",
@@ -15173,8 +15173,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-04",
+    "manufacturer": {
+      "id": "manufacturer-04",
       "logo": {
         "url": "/mock-lider.png",
         "alt": "Lider Logo",
@@ -15309,8 +15309,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": true,
     "isNew": false,
-    "brand": {
-      "id": "brand-03",
+    "manufacturer": {
+      "id": "manufacturer-03",
       "logo": {
         "url": "/mock-made.svg",
         "alt": "Made Logo",
@@ -15556,8 +15556,8 @@
     "hasMoreMaterials": true,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-01",
+    "manufacturer": {
+      "id": "manufacturer-01",
       "logo": {
         "url": "/mock-maddo.png",
         "alt": "Maddo Logo",
@@ -15699,8 +15699,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-02",
+    "manufacturer": {
+      "id": "manufacturer-02",
       "logo": {
         "url": "/mock-aristeu-pires.png",
         "alt": "Aristeu Pires Logo",
@@ -15957,8 +15957,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": false,
-    "brand": {
-      "id": "brand-03",
+    "manufacturer": {
+      "id": "manufacturer-03",
       "logo": {
         "url": "/mock-made.svg",
         "alt": "Made Logo",
@@ -16126,8 +16126,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-04",
+    "manufacturer": {
+      "id": "manufacturer-04",
       "logo": {
         "url": "/mock-lider.png",
         "alt": "Lider Logo",
@@ -16204,8 +16204,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": false,
     "isNew": true,
-    "brand": {
-      "id": "brand-04",
+    "manufacturer": {
+      "id": "manufacturer-04",
       "logo": {
         "url": "/mock-lider.png",
         "alt": "Lider Logo",
@@ -16340,8 +16340,8 @@
     "hasMoreMaterials": false,
     "hasMoreSizes": true,
     "isNew": false,
-    "brand": {
-      "id": "brand-03",
+    "manufacturer": {
+      "id": "manufacturer-03",
       "logo": {
         "url": "/mock-made.svg",
         "alt": "Made Logo",
